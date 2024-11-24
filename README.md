@@ -1,5 +1,5 @@
 
-# Fan Theory Aggregator
+# FanVerseAI
 
 This project is an automated pipeline for gathering, curating, and presenting fan theories about popular animanga. Using AI-powered agents and Reddit data, it extracts fan-generated content, evaluates their relevance and uniqueness, and generates engaging articles.
 
